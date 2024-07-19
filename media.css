@@ -1,0 +1,19 @@
+@media screen and (max-width :991px) {
+    .nav-log{
+        width: 15%;
+        padding: 0%;
+    }
+    .nav-input{
+        width: 30%;
+        display: block;
+        padding-left: 20px;
+    }
+    .nav-account{
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+    .nav-whishlist{
+        padding-left: 9px;
+        padding-top: 20px;
+    }
+}
